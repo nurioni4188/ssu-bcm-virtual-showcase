@@ -9,9 +9,14 @@
 
 ## 배포
 - 플랫폼: Vercel (GitHub main 브랜치 연결, 자동 배포)
-- 운영 주소(확인 대기): https://ssu-bcm-virtual-showcase.vercel.app
+- 운영 주소: https://ssu-bcm-virtual-showcase.vercel.app (2026-10-14 사용자 확인)
 
 ## 변경 이력
+### v0.7 — 2026-10-14
+- 변경: canonical·공유 미리보기(OG) 태그, 사이트 아이콘(favicon.svg), 공유 이미지(og-image.png, 자체 제작), 404 페이지 추가
+- 검증: d1ea6c9 기준 사용자 실기기 확인 — 로그인 없이 열림, 설계 노트 반영(자동 재배포), 모바일 메뉴 가로 이동 통과
+- 복구 기준 버전: d1ea6c9
+
 ### v0.6 — 2026-10-14
 - 변경: 설계 노트 5단계를 실제 배포 경과로 갱신, README에 배포 정보 추가
 - 검증: 미실행 (문구 변경)
